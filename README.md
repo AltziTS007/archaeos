@@ -1,4 +1,4 @@
-# 🏛️ ARCHAEOS - Εξερεύνηση Αρχαίας Ελλάδας
+# 🏛️ ARCHAEOS - Εξερευνώ την Αρχαία Ελλάδα
 
 An interactive educational web application for children aged 9-15 to explore Ancient Greece through an interactive map, quizzes, and gamification.
 
