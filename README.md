@@ -95,7 +95,7 @@ Open **Command Prompt** or **PowerShell**:
 
 ```cmd
 # Clone from GitHub
-git clone https:///AltziTS007/archaeos.git
+git clone https://AltziTS007/archaeos.git
 cd archaeos
 ```
 
