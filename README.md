@@ -49,7 +49,7 @@ nvm use 18
 
 ```bash
 # Clone from GitHub
-git clone https://github.com/YOUR_USERNAME/archaeos.git
+git clone https://github.com/AltziTS007/archaeos.git
 cd archaeos
 ```
 
